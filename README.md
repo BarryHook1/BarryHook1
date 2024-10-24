@@ -2,7 +2,7 @@
 ##
 <div align="center">
   <a href="https://github.com/barryhook1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barryhook1&theme=nord&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barryhook1&theme=nord&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=barryhook1&theme=nord&hide_border=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryhook1&theme=nord&show_icons=true&hide_border=false&layout=compact"/> 
 </div>
